@@ -156,16 +156,16 @@ class task2 {
             System.out.println("");
             switch (n) {
                 case 1:
-                    System.out.println("Играет музыка: Бах");
+                    System.out.println("Играет музыка: " + musicOne);
                     break;
                 case 2:
-                    System.out.println("Играет музыка: Ария");
+                    System.out.println("Играет музыка: " + musicTwo);
                     break;
                 case 3:
-                    System.out.println("Играет музыка: Рамштайн");
+                    System.out.println("Играет музыка: " + musicThree);
                     break;
                 case 4:
-                    System.out.println("Играет музыка: КиШ");
+                    System.out.println("Играет музыка: " + musicFour);
                     break;
                 case 5:
                     audioPlayer();
