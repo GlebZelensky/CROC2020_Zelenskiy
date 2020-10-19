@@ -30,7 +30,6 @@ class task2 {
         }
     }
 
-    // вывод главного меню
     public static void audioPlayer() {
         System.out.print("Выберите звуковоспроизводящее устройство"
                 + "\n 1 - Аудиоплеер"
